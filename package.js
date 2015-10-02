@@ -1,7 +1,7 @@
 Package.describe({
   name: 'stondo:angular-meteor-smart-table',
   version: '0.1.0',
-  summary: 'Meteor 1.2 package for smart-table: a table/grid for Angularjs, compatible with official angular package (angular:angular)',
+  summary: 'Meteor 1.2 package for smart-table: a table/grid component for AngularJs',
   git: 'https://github.com/stondo/angular-meteor-smart-table.git',
 });
 
